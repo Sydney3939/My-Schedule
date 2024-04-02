@@ -80,3 +80,12 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+.calendar-image {
+    text-align: center; /* Center the image horizontally */
+    margin-top: 20px; /* Add some space above the image */
+}
+
+.calendar-image img {
+    border-radius: 10px; /* Add rounded corners to the image */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow effect */
+}
